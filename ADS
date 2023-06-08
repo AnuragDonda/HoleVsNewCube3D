@@ -1,0 +1,13 @@
+{
+  "ads_power" : "1",
+  "status": "2",
+  "google_bannerID": "ca-app-pub-8549513295169442/4635591801",
+  "google_interstitialID": "ca-app-pub-8549513295169442/2975025776",
+  "google_rewardID": "ca-app-pub-8549513295169442/3462110935",
+  "google_appOpenID": "ca-app-pub-8549513295169442/8035780767",
+  "applovin_bannerID": "876a8350606b06e6",
+  "applovin_interstitialID": "eb952ccc320d3136",
+  "applovin_rewardID": "1999d2b386f09201",
+  "applovin_appOpenID": "23e7fecce306d048",
+  "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP"
+}
