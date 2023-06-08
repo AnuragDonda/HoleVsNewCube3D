@@ -1,5 +1,5 @@
 {
-  "ads_power" : "1",
+  "ads_power" : "0",
   "status": "2",
   "google_bannerID": "ca-app-pub-8549513295169442/4635591801",
   "google_interstitialID": "ca-app-pub-8549513295169442/2975025776",
