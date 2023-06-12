@@ -9,5 +9,9 @@
   "applovin_interstitialID": "eb952ccc320d3136",
   "applovin_rewardID": "1999d2b386f09201",
   "applovin_appOpenID": "23e7fecce306d048",
-  "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP"
+  "applovin_SDK_KEY": "En4SrncPFPQTsHwwhJ5_xhpUm3WisbaAbB3v4V65NVca1R4qg1nMXqshzaW8RcU6eTAboyb6OU19lAHC_0hSXP",
+  "facebookAds_WithAppopen": "true",
+  "facebook_bannerID": "598056052331654_598059668997959",
+  "facebook_interstitialID": "598056052331654_598059725664620",
+  "facebook_rewardID": "598056052331654_598059822331277"
 }
