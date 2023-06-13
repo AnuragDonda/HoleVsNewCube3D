@@ -1,6 +1,6 @@
 {
   "ads_power" : "1",
-  "status": "2",
+  "status": "1",
   "google_bannerID": "ca-app-pub-3940256099942544/6300978111",
   "google_interstitialID": "ca-app-pub-3940256099942544/1033173712",
   "google_rewardID": "ca-app-pub-3940256099942544/5224354917",
