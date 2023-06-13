@@ -11,7 +11,7 @@
   "applovin_appOpenID": "753b4a6013d58211",
   "applovin_SDK_KEY": "JZnRPJc60g5SToLRK6CES1tKHuSkRX_vz2khXrcUmNsBcsRPhZeDTPN_wAcTqSBlN_eUkHN_TqMGHse8w26mlD",
   "facebookAds_WithAppopen": "true",
-  "facebook_bannerID": "2024551467875865_2024553374542341",
-  "facebook_interstitialID": "2024551467875865_2024553417875670",
-  "facebook_rewardID": "2024551467875865_2024553524542326"
+  "facebook_bannerID": "598056052331654_598059668997959",
+  "facebook_interstitialID": "598056052331654_598059725664620",
+  "facebook_rewardID": "598056052331654_598059822331277"
 }
